@@ -1,3 +1,2 @@
 #!/bin/bash
-echo "Hello, world" 
-echo #this adds a newline
+echo "Hello, World"
